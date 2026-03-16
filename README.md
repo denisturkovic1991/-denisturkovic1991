@@ -38,7 +38,7 @@ Q5  →  Microsoft Fabric + DP-600 certification
 ## 📅 Full Roadmap Overview
 
 ```
-Feb 2026    Mar 2026    Apr 2026    May 2026    Jun 2026    Jul 2026
+Feb,Mar 2026   Mar 2026    Apr 2026    May 2026    Jun 2026    Jul 2026
    │            │           │           │           │           │
 [Git+SQL]  [Docker+SQL] [Python ETL] [Python DE] [dbt Bootcamp][Power BI]
    Q1 ─────────────────────── Q2 ──────────────────────────────────
@@ -69,22 +69,24 @@ Aug 2026    Sep 2026    Oct 2026    Nov 2026    Dec 2026    Jan-Mar 2027
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### 📚 Courses — Q1
+### 📚 Courses — Q1 & Q2
 | Course | Platform | Instructor | Status |
 |--------|----------|------------|--------|
-| The Git & GitHub Bootcamp | Udemy | Colt Steele | 🔄 In Progress |
+
+| Microsoft Excel: Business Intelligence w/ Power Query & DAX | Maven Analytics | ✅ Done |
 | SQL & PostgreSQL: The Complete Developer's Guide | Udemy | Stephen Grider | 🔄 In Progress |
+| The Git & GitHub Bootcamp | Udemy | Colt Steele | 🔄 In Progress |
 | Docker Mastery: with Kubernetes + Swarm | Udemy | Bret Fisher | ⏳ Planned |
-| Python Masterclass | Udemy | Jose Portilla | ⏳ Planned |
+| Python Data Analysis & Visualization Masterclass | Udemy | Colt Steele | ⏳ Planned |
 
 ### ✅ Q1 Milestone Checklist
+- [x] Power Query & DAX |
 - [ ] Git & GitHub Bootcamp — 100% complete
 - [ ] SQL (Grider) — 100% complete
 - [ ] Docker Mastery — 80%+ complete
 - [ ] Python foundations solid
 - [ ] EcoDrive: SQL schema + Docker Compose + Python ETL on GitHub
 - [ ] 60+ GitHub commits
-- [ ] LinkedIn post published
 
 ---
 
@@ -308,8 +310,6 @@ Rather than touching 20 tools superficially, this plan goes deep on the tools th
 
 <div align="center">
 
-*Plan reviewed and structured with guidance from Senior Data Engineering perspective.*
-*Inspired by practices at global DE teams — Booking.com, Zalando, Infobip.*
 
 **"The best time to start was yesterday. The second best time is today."**
 
