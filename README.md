@@ -79,7 +79,7 @@ Aug 2026    Sep 2026    Oct 2026    Nov 2026    Dec 2026    Jan-Mar 2027
 | Python Data Analysis & Visualization Masterclass | Udemy | Colt Steele | ⏳ Planned |
 
 ### ✅ Q1 Milestone Checklist
-- [x] Power Query & DAX |
+- [x] Power Query & DAX — 100% complete
 - [ ] Git & GitHub Bootcamp — 100% complete
 - [ ] SQL (Grider) — 100% complete
 - [ ] Docker Mastery — 80%+ complete
