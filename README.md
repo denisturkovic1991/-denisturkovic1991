@@ -72,7 +72,7 @@ Aug 2026    Sep 2026    Oct 2026    Nov 2026    Dec 2026    Jan-Mar 2027
 ### 📚 Courses — Q1 & Q2
 | Course | Platform | Instructor | Status |
 |--------|----------|------------|--------|
-| Microsoft Excel: Business Intelligence w/ Power Query & DAX | Maven Analytics | ✅ Done |
+| Microsoft Excel: Business Intelligence w/ Power Query & DAX | Udemy | Maven Analytics | ✅ Done |
 | SQL & PostgreSQL: The Complete Developer's Guide | Udemy | Stephen Grider | 🔄 In Progress |
 | The Git & GitHub Bootcamp | Udemy | Colt Steele | 🔄 In Progress |
 | Docker Mastery: with Kubernetes + Swarm | Udemy | Bret Fisher | ⏳ Planned |
