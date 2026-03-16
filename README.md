@@ -31,7 +31,7 @@ Q4  →  Azure Databricks + Spark + Delta Lake
 Q5  →  Microsoft Fabric + DP-600 certification
 ```
 
-📌 **[View EcoDrive AI Repository →] ([https://github.com/denisturkovic1991](https://github.com/denisturkovic1991/EcoDrive-AI))**
+📌 **[View EcoDrive AI Repository →] ([https://github.com/denisturkovic1991]([https://github.com/denisturkovic1991/EcoDrive-AI](https://github.com/denisturkovic1991/EcoDrive-Project)))**
 
 ---
 
