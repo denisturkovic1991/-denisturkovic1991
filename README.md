@@ -302,7 +302,8 @@ Rather than touching 20 tools superficially, this plan goes deep on the tools th
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Turkovic-0A66C2?style=flat&logo=linkedin&logoColor=white)][www.linkedin.com/in/denis-turković-1975a0125e))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Turkovic-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-turković-1975a0125)
+
 [![GitHub](https://img.shields.io/badge/GitHub-denisturkovic1991-181717?style=flat&logo=github&logoColor=white)](https://github.com/denisturkovic1991)
 
 ---
